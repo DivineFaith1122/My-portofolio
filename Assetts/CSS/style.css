@@ -1,1 +1,4 @@
 .sleep{color: red;}
+.sleep p,li{font-size: 30px;}
+.sleep img{/*  height:100vh;
+	       width:100vw;*/}
